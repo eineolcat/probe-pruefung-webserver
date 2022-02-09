@@ -15,12 +15,14 @@ def load_selectors():
 
 # webscraping function
 def my_scraper():
+    table_rows
     # YOUR CODE GOES HERE
     pass
 
 
 # filter function
 def my_filter():
+    table_rows
     # YOUR CODE GOES HERE
     pass
 
